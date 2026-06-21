@@ -1,4 +1,3 @@
-
 # 📦 Sistem Manajemen Inventory - PT Sinar Abadi
 
 Sistem Aplikasi Manajemen Inventaris barang berbasis web untuk **PT Sinar Abadi** yang dirancang dengan antarmuka modern, premium, dan dinamis menggunakan AdminLTE 4, Bootstrap 5, dan integrasi SweetAlert2.
@@ -31,11 +30,11 @@ Sistem Aplikasi Manajemen Inventaris barang berbasis web untuk **PT Sinar Abadi*
 ### 📸 Galeri Antarmuka Website
 
 #### 🔐 Halaman Login
-<img width="100%" alt="Halaman Login" src="https://github.com/user-attachments/assets/570f5f9e-2546-43fa-8ecf-24aeca2dba7c" />
+<img width="100%" alt="Halaman Login" src="https://github.com/user-attachments/assets/50007b3a-d388-4480-921a-f20be6e0fdcf" />
 *Gambar 1.1: Halaman Login (Tampilan Premium dengan Background Blur & Glassmorphism)*
 
 #### 📝 Halaman Registrasi
-<img width="100%" alt="Halaman Registrasi" src="https://github.com/user-attachments/assets/34fb498a-17a8-4d56-b78b-37cef96ae16b" />
+<img width="100%" alt="Halaman Registrasi" src="https://github.com/user-attachments/assets/f8005040-211a-4e7d-b389-dae0330b8412" />
 *Gambar 1.2: Halaman Registrasi (Pendaftaran Akun Pengguna)*
 
 #### 💻 Dasbor Admin
