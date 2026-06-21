@@ -91,4 +91,3 @@ Sistem Aplikasi Manajemen Inventaris barang berbasis web untuk **PT Sinar Abadi*
 ## 🔗 Tautan Penting
 
 - **Repositori GitHub**: [adisoekamthi-cloud/pratikum_inventory](https://github.com/adisoekamthi-cloud/pratikum_inventory)
-- **Link Presentasi**: [Tonton Video Demo YouTube/TikTok](https://github.com/adisoekamthi-cloud/pratikum_inventory)
