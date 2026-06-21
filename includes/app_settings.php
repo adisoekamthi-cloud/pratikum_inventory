@@ -8,7 +8,7 @@ function app_settings_root_path(string $path = ''): string
 function app_settings_defaults(): array
 {
     return [
-        'app_name' => 'Sakura Mobilindo',
+        'app_name' => 'Sinar Abadi',
         'company_logo' => 'assets/img/gambar.png',
         'favicon' => 'assets/img/gambar.png',
         'sidebar_header_image' => 'assets/img/AdminLTELogo.png',

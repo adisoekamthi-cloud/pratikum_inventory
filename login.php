@@ -135,14 +135,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
 
         .logo-wrapper {
-            width: 90px;
-            height: 90px;
+            width: 120px;
+            height: 120px;
             background: #ffffff;
-            border-radius: 24px;
+            border-radius: 28px;
             display: flex;
             align-items: center;
             justify-content: center;
-            padding: 12px;
+            padding: 14px;
             box-shadow: 0 10px 25px rgba(0,0,0,0.06);
             border: 1px solid rgba(255, 255, 255, 0.9);
             transition: transform 0.3s ease;
