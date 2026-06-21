@@ -37,25 +37,24 @@ Sistem Aplikasi Manajemen Inventaris barang berbasis web untuk **PT Sinar Abadi*
 <img width="100%" alt="Halaman Registrasi" src="https://github.com/user-attachments/assets/f8005040-211a-4e7d-b389-dae0330b8412" />
 *Gambar 1.2: Halaman Registrasi (Pendaftaran Akun Pengguna)*
 
-#### 💻 Dasbor Admin
-<img width="100%" alt="Tampilan Admin 1" src="https://github.com/user-attachments/assets/691e13ec-5b91-41d3-81da-68c3dc3d528f" />
-<img width="100%" alt="Tampilan Admin 2" src="https://github.com/user-attachments/assets/b9ce43b6-4ee8-4e7b-a3bc-a6c067500a52" />
-*Gambar 1.3: Tampilan Halaman Admin (Kontrol Inventory, Stok Kritis, Manajemen Pengguna & Vendor)*
+#### 💻 Dasbor Admin & Pengaturan
+<img width="100%" alt="Dasbor Admin" src="https://github.com/user-attachments/assets/1c96147e-640c-4a50-a779-d141ff480d12" />
+<img width="100%" alt="Pengaturan Aplikasi" src="https://github.com/user-attachments/assets/97737a66-55ef-46bd-9845-029466b596ee" />
+*Gambar 1.3: Tampilan Halaman Admin & Menu Pengaturan Aplikasi*
 
 #### 👤 Halaman Profil
 <p align="center">
-  <img width="400" alt="Halaman Profil" src="https://github.com/user-attachments/assets/35d3eef9-70f4-4759-a6c6-1085257aa164" />
+  <img width="1598" height="784" alt="profil" src="https://github.com/user-attachments/assets/75a328f3-e541-41b8-a896-b219c3fef39e" />
 </p>
 *Gambar 1.4: Detail Profil Pengguna*
 
 #### 👥 Dasbor Pengguna (User)
-<img width="100%" alt="Tampilan User 1" src="https://github.com/user-attachments/assets/9174c282-43e9-41cf-94ea-d90de67b163f" />
-<img width="100%" alt="Tampilan User 2" src="https://github.com/user-attachments/assets/5714502f-fac7-48fe-b3ba-75271676078d" />
-*Gambar 1.5: Tampilan Halaman Pengguna Biasa*
+<img width="100%" alt="Dasbor Pengguna" src="https://github.com/user-attachments/assets/3bc63035-a7b2-4169-8a63-8e4403b96d43" />
+*Gambar 1.5: Tampilan Halaman Pengguna Biasa (Akses Data Inventaris & Laporan)*
 
 #### ➕ Tambah & Edit Data
-<img width="100%" alt="Tambah Data" src="https://github.com/user-attachments/assets/4c65c2e1-b392-444f-b066-ed7a33f94ec0" />
-*Gambar 1.6: Halaman Tambah Master Data Barang Baru*
+<img width="100%" alt="Tambah & Edit Data" src="https://github.com/user-attachments/assets/4929cd67-afbf-400b-b3c2-3ad2269a2e8d" />
+*Gambar 1.6: Halaman Tambah & Edit Master Data Barang*
 
 ---
 
