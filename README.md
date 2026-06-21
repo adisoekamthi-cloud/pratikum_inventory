@@ -58,18 +58,6 @@ Sistem Aplikasi Manajemen Inventaris barang berbasis web untuk **PT Sinar Abadi*
 
 ---
 
-## 🛠️ Fitur-Fitur Utama & Pembaruan Sistem
-
-1. **Dashboard Inventory Terkonsolidasi**: Seluruh file administrasi telah dipindahkan ke direktori utama (root level) demi performa loading halaman yang lebih optimal dan struktur file yang bersih.
-2. **Desain Cardview Premium**: Seluruh tabel database menggunakan kontainer card modern (`border-radius: 12px`, `overflow: hidden`, dan `shadow-sm border-0`) dengan header warna primary (`bg-primary`).
-3. **Integrasi SweetAlert2**: Operasi penghapusan data dan notifikasi aksi sukses/gagal kini menggunakan SweetAlert2 dengan tombol interaktif bergaya modern.
-4. **Desain Responsif & Tema Adaptif**:
-   - Layout responsif yang mendeteksi resolusi layar, mencegah pemotongan form login/registrasi.
-   - Komponen footer dinamis yang mendeteksi mode malam (`dark theme`) secara native.
-5. **Manajemen Master Data Terintegrasi**: Pengelolaan data stok barang, vendor supplier, status produk, penyimpanan gudang, log distribusi barang masuk/keluar, dan akun pengguna.
-
----
-
 ## 💻 Tech Stack yang Digunakan
 
 - **Core**: PHP 8.x, HTML5, Javascript (ES6+)
